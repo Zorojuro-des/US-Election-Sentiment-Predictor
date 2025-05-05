@@ -1,0 +1,5 @@
+Method,Accuracy,Precision,Recall,F1
+Unprocessed + NLP,1.0,1.0,1.0,1.0
+Preprocessed + NLP,1.0,1.0,1.0,1.0
+Unprocessed - NLP,0.98,0.9814,0.98,0.9802
+Preprocessed - NLP,0.98,0.9805,0.98,0.98
